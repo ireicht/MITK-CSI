@@ -1,0 +1,4 @@
+list(APPEND ALL_LIBRARIES ${tinyxml_LIBRARIES})
+if(tinyxml_INCLUDE_DIRS)
+  list(APPEND ALL_INCLUDE_DIRECTORIES ${tinyxml_INCLUDE_DIRS})
+endif()

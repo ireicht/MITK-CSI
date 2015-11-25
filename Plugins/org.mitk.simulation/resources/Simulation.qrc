@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/Simulation">
+    <file>SOFAIcon.png</file>
+  </qresource>
+</RCC>

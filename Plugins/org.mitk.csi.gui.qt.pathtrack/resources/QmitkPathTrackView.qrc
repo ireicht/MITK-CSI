@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QmitkPointSetInteractionView">
+        <file>pathtrack.png</file>
+    </qresource>
+</RCC>

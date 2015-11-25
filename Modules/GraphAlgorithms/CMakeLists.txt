@@ -1,0 +1,4 @@
+MITK_CREATE_MODULE(
+  DEPENDS MitkImageStatistics
+  WARNINGS_AS_ERRORS
+)
