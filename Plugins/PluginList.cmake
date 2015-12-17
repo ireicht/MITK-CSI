@@ -19,7 +19,6 @@ set(MITK_PLUGINS
   #Testing/org.blueberry.osgi.tests:ON
 
   org.mitk.core.services:ON
-  org.mitk.csi.gui.qt.pathtrack:ON
   org.mitk.gui.common:ON
   org.mitk.planarfigure:ON
   org.mitk.core.ext:OFF
@@ -33,6 +32,7 @@ set(MITK_PLUGINS
   org.mitk.gui.qt.common:ON
   org.mitk.gui.qt.stdmultiwidgeteditor:ON
   org.mitk.gui.qt.common.legacy:OFF
+  org.mitk.csi.gui.qt.pathtrack:ON
   org.mitk.gui.qt.cmdlinemodules:OFF
   org.mitk.gui.qt.diffusionimagingapp:OFF
   org.mitk.gui.qt.datamanager:ON
